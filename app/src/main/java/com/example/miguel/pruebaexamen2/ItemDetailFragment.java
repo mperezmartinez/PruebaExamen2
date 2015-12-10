@@ -67,6 +67,7 @@ public class ItemDetailFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 ((TextView) rootView.findViewById(R.id.item_detail)).setText(" ");
+
             }
         });
         // Show the dummy content as text in a TextView.
